@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "https://github.com/ReedOnePeck/Luyizhuo.github.io/blob/master/images/LYZ-blue.png"
-  name             : "Yizhuo Lu (卢一卓)"
+  name             : "Yizhuo Lu"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Beijing, China"
