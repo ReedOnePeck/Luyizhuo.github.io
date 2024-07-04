@@ -32,6 +32,21 @@ I have been collaborating with [Dr. Changde Du](https://changdedu.github.io/) an
 
 📈 Educations
 ======
+<div align="center">
+  <table style="border-collapse: collapse; width: auto;">
+    <tr>
+      <td style="border: none; padding: 0; width: 1px; white-space: nowrap;">
+        <img src="https://github.com/ReedOnePeck/Luyizhuo.github.io/blob/master/images/CASIA.png" style="max-width: 50%; height: auto;" alt="图片名称"/>
+      </td>
+      <td style="border: none; padding: 0;">
+        <p>文字</p>
+        <p>文字</p>
+        <p>文字</p>
+      </td>
+    </tr>
+  </table>
+</div>
+
 <div align="left">
   <table style="border-collapse: collapse;" rules="none">
     <tr>
