@@ -32,11 +32,11 @@ I have been collaborating with [Dr. Changde Du](https://changdedu.github.io/) an
 
 📈 Educations
 ======
-<div align="center">
+<div align="left">
   <table style="border-collapse: collapse;" rules="none">
     <tr>
       <td style="border: none;">
-        <img src="https://github.com/ReedOnePeck/Luyizhuo.github.io/blob/master/images/CASIA.png" style="width: 100%;" />
+        <img src="https://github.com/ReedOnePeck/Luyizhuo.github.io/blob/master/images/CASIA.png" style="width: 50%;" />
       </td>
       <td style="border: none;">
         <p>文字</p>
