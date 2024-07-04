@@ -36,7 +36,7 @@ I have been collaborating with [Dr. Changde Du](https://changdedu.github.io/) an
   <table style="border-collapse: collapse; width: auto;">
     <tr>
       <td style="border: none; padding: 0; width: 1px; white-space: nowrap;">
-        <img src="https://github.com/ReedOnePeck/Luyizhuo.github.io/blob/master/images/CASIA.png" style="max-width: 50%; height: auto;" alt="图片名称"/>
+        <img src="https://github.com/ReedOnePeck/Luyizhuo.github.io/blob/master/images/CASIA1.png" style="width: 50%; height: auto;" />
       </td>
       <td style="border: none; padding: 0;">
         <p>文字</p>
