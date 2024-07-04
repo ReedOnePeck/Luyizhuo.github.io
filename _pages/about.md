@@ -32,7 +32,7 @@ I have been collaborating with [Dr. Changde Du](https://changdedu.github.io/) an
 
 📈 Educations
 ======
-<div align="center">
+<div align="left">
   <table style="border-collapse: collapse; width: auto;">
     <tr>
       <td style="border: none; padding: 0; width: 1px; white-space: nowrap;">
