@@ -32,20 +32,8 @@ I have been collaborating with [Dr. Changde Du](https://changdedu.github.io/) an
 
 📈 Educations
 ======
-<div align="center">
-  <table style="border-collapse: collapse;" rules="none">
-    <tr>
-      <td style="border: none; padding: 0; text-align: center;">
-        <img src="https://github.com/ReedOnePeck/Luyizhuo.github.io/blob/master/images/CASIA1.png" style="width: 25%; height: 25%;" />
-      </td>
-      <td style="width: 1px; white-space: nowrap;">
-        <p>2023.09 - 2028.06 (Expected), Ph.D. student</p>
-        <p>Pattern Recognition and Intelligent System</p>
-        <p>Institute of Automation, Chinese Academy of Sciences, Beijing</p>
-      </td>
-    </tr>
-  </table>
-</div>
+![]([http://example.com/image.jpg](https://github.com/ReedOnePeck/Luyizhuo.github.io/blob/master/images/CASIA1.png))
+
 
 
 
