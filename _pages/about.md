@@ -32,18 +32,13 @@ I have been collaborating with [Dr. Changde Du](https://changdedu.github.io/) an
 
 📈 Educations
 ======
-<div align="left">
-<tr>
-<td>
-<img src="https://github.com/ReedOnePeck/Luyizhuo.github.io/blob/master/images/CASIA.png" style="width: 25%; height: auto;"/>
-</td>
-<td>
-<p>文字</p>
-<p>文字</p>
-<p>文字</p>
-</td>
-</tr>
+<div style="float: left; margin-right: 20px;">
+  <img src="https://github.com/ReedOnePeck/Luyizhuo.github.io/blob/master/images/CASIA.png" style="width: 25%; height: auto;">
 </div>
+<div style="overflow: auto;">
+  这里是环绕在图片右侧的文字内容。
+</div>
+
 
 
 📸 Honors
