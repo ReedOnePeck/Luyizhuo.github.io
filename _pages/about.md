@@ -32,7 +32,7 @@ I have been collaborating with [Dr. Changde Du](https://changdedu.github.io/) an
 
 📈 Educations
 ======
-![]([http://example.com/image.jpg](https://github.com/ReedOnePeck/Luyizhuo.github.io/blob/master/images/CASIA1.png))
+![](https://github.com/ReedOnePeck/Luyizhuo.github.io/blob/master/images/CASIA1.png)
 
 
 
