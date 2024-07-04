@@ -36,7 +36,7 @@ I have been collaborating with [Dr. Changde Du](https://changdedu.github.io/) an
   <table style="border-collapse: collapse;" rules="none">
     <tr>
       <td style="border: none;">
-        <img src="https://github.com/ReedOnePeck/Luyizhuo.github.io/blob/master/images/CASIA1.png" style="width: 10%;" />
+        <img src="https://github.com/ReedOnePeck/Luyizhuo.github.io/blob/master/images/CASIA1.png" style="width: 100%;" />
       </td>
       <td style="border: none;">
         <p>2023.09 - 2028.06 (Expected), Ph.D. student</p>
