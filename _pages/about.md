@@ -33,25 +33,10 @@ I have been collaborating with [Dr. Changde Du](https://changdedu.github.io/) an
 📈 Educations
 ======
 <div align="left">
-  <table style="border-collapse: collapse; width: auto;">
-    <tr>
-      <td style="border: none; padding: 0; width: 1px; white-space: nowrap;">
-        <img src="https://github.com/ReedOnePeck/Luyizhuo.github.io/blob/master/images/CASIA1.png" style="width: 50%; height: auto;" />
-      </td>
-      <td style="border: none; padding: 0;">
-        <p>文字</p>
-        <p>文字</p>
-        <p>文字</p>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<div align="left">
   <table style="border-collapse: collapse;" rules="none">
     <tr>
       <td style="border: none;">
-        <img src="https://github.com/ReedOnePeck/Luyizhuo.github.io/blob/master/images/CASIA1.png" style="width: 50%;" />
+        <img src="https://github.com/ReedOnePeck/Luyizhuo.github.io/blob/master/images/CASIA1.png" style="width: 25%;" />
       </td>
       <td style="border: none;">
         <p>文字</p>
