@@ -36,7 +36,7 @@ I have been collaborating with [Dr. Changde Du](https://changdedu.github.io/) an
 <table rules="none">
 <tr>
 <td>
-<img src="https://github.com/ReedOnePeck/Luyizhuo.github.io/blob/master/images/CASIA.png" style="zoom:50%"/>
+<img src="https://github.com/ReedOnePeck/Luyizhuo.github.io/blob/master/images/CASIA.png" style="zoom:25%"/>
 </td>
 <td>
 <p>文字</p>
