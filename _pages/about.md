@@ -6,8 +6,12 @@ redirect_from:
   - /about/
   - /about.html
 ---
+I am Yizhuo Lu(卢一卓), a second year Ph.D. student at Institute of Automation, Chinese Academy of Sciences(中国科学院自动化研究所), supervised by [Prof. Huiguang He](https://people.ucas.ac.cn/~hehuiguang). 
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+My research interest lies in visual neural decoding technology, also known as mind-reading. Currently, I have developed controllable and interpretable algorithms for decoding [static images](https://dl.acm.org/doi/10.1145/3581783.3613832) and [dynamic videos](https://arxiv.org/abs/2405.03280) based on large pre-trained multimodal models, all of which are tailored to individual subjects. To broaden the application of this technology in natural settings, I will continue to explore its adaptability across subjects and datasets.
+
+I have been collaborating with [Dr. Changde Du](https://changdedu.github.io/) and Dr. Liuyun Jiang on research projects. If you are interested in my research directions, please feel free to contact me via email to achieve meaningful outcomes together.
+
 
 A data-driven personal website
 ======
