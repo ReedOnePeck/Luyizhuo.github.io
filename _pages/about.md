@@ -34,16 +34,16 @@ I have been collaborating with [Dr. Changde Du](https://changdedu.github.io/) an
 ======
 <div align="center">
 <table rules="none">
-<tl>
-<td>
-<p>文字</p>
-<p>文字</p>
-<p>文字</p>
-</td>
+<tr>
 <td>
 <img src="图片地址" style="zoom:50%"  alt="图片名称"/>
 </td>
-</tl>
+<td>
+<p>文字</p>
+<p>文字</p>
+<p>文字</p>
+</td>
+</tr>
 </table>    
 </div>
 
