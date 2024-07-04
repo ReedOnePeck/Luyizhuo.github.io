@@ -39,9 +39,9 @@ I have been collaborating with [Dr. Changde Du](https://changdedu.github.io/) an
         <img src="https://github.com/ReedOnePeck/Luyizhuo.github.io/blob/master/images/CASIA1.png" style="width: 10%;" />
       </td>
       <td style="border: none;">
-        <p>文字</p>
-        <p>文字</p>
-        <p>文字</p>
+        <p>2023.09 - 2028.06 (Expected), Ph.D. student</p>
+        <p>Pattern Recognition and Intelligent System</p>
+        <p>Institute of Automation, Chinese Academy of Sciences, Beijing</p>
       </td>
     </tr>
   </table>
