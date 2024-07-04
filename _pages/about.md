@@ -33,7 +33,6 @@ I have been collaborating with [Dr. Changde Du](https://changdedu.github.io/) an
 📈 Educations
 ======
 <div align="left">
-<table rules="none">
 <tr>
 <td>
 <img src="https://github.com/ReedOnePeck/Luyizhuo.github.io/blob/master/images/CASIA.png" style="width: 50%; height: auto;"/>
@@ -44,7 +43,6 @@ I have been collaborating with [Dr. Changde Du](https://changdedu.github.io/) an
 <p>文字</p>
 </td>
 </tr>
-</table>    
 </div>
 
 
