@@ -32,10 +32,13 @@ I have been collaborating with [Dr. Changde Du](https://changdedu.github.io/) an
 
 📈 Educations
 ======
-![](https://github.com/ReedOnePeck/Luyizhuo.github.io/blob/master/images/CASIA1.png)
+* 🐳 **Institute of Automation, Chinese Academy of Sciences**, 2023.09 - 2028.06 (Expected), Ph.D. student
 
+* 🐳 **North Carolina State University**, 2022.01 - 2022.03, Visiting student
 
+* 🐳 **Massachusetts Institute of Technology**, 2021.07 - 2021.09, Visiting student
 
+* 🐳 **Beijing Institute of Technology**, 2019.09 - 2023.06, B.E. degree
 
 📸 Honors
 ======
