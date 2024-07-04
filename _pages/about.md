@@ -32,10 +32,21 @@ I have been collaborating with [Dr. Changde Du](https://changdedu.github.io/) an
 
 📈 Educations
 ======
-<div style="display: flex; align-items: flex-start;">
-  <img src="https://github.com/ReedOnePeck/Luyizhuo.github.io/blob/master/images/CASIA.png" style="width: 200px; margin-right: 20px;" alt="Alt text">
-  <p>这里是环绕在图片右侧的文字内容。你可以在这里写很多文字，它们会环绕在图片的右侧。</p>
+<div align="center">
+  <table style="border-collapse: collapse;" rules="none">
+    <tr>
+      <td style="border: none;">
+        <img src="https://github.com/ReedOnePeck/Luyizhuo.github.io/blob/master/images/CASIA.png" style="width: 50%;" alt="图片名称"/>
+      </td>
+      <td style="border: none;">
+        <p>文字</p>
+        <p>文字</p>
+        <p>文字</p>
+      </td>
+    </tr>
+  </table>
 </div>
+
 
 
 📸 Honors
