@@ -22,7 +22,7 @@ I have been collaborating with [Dr. Changde Du](https://changdedu.github.io/) an
 
 📝 Publications
 ======
-* **Yizhuo Lu**, Changde Du<sup>2</sup>, Chong Wang, Xuanliu Zhu, Liuyun Jiang, Xujin Li, Huiguang He
+* **Yizhuo Lu**, Changde Du<sup>*</sup>, Chong Wang, Xuanliu Zhu, Liuyun Jiang, Xujin Li, Huiguang He
 
 [Animate Your Thoughts: Decoupled Reconstruction of Dynamic Natural Vision from Slow Brain Activity](https://arxiv.org/pdf/2405.03280) **Under Review**. [Code](https://github.com/Mind-Animator/Mind-Animator)
 
@@ -32,7 +32,20 @@ I have been collaborating with [Dr. Changde Du](https://changdedu.github.io/) an
 
 📈 Educations
 ======
-
+<div align="center">
+<table rules="none">
+<tl>
+<td>
+<p>文字</p>
+<p>文字</p>
+<p>文字</p>
+</td>
+<td>
+<img src="图片地址" style="zoom:50%"  alt="图片名称"/>
+</td>
+</tl>
+</table>    
+</div>
 
 
 📸 Honors
