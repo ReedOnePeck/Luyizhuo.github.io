@@ -35,7 +35,7 @@ I have been collaborating with [Dr. Changde Du](https://changdedu.github.io/) an
 <div align="left">
 <tr>
 <td>
-<img src="https://github.com/ReedOnePeck/Luyizhuo.github.io/blob/master/images/CASIA.png" style="width: 50%; height: auto;"/>
+<img src="https://github.com/ReedOnePeck/Luyizhuo.github.io/blob/master/images/CASIA.png" style="width: 25%; height: auto;"/>
 </td>
 <td>
 <p>文字</p>
