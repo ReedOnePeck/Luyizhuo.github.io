@@ -15,7 +15,7 @@ I have been collaborating with [Dr. Changde Du](https://changdedu.github.io/) an
 
 🚀 News
 ======
-* 🚑 2024.06 [Animate Your Thoughts: Decoupled Reconstruction of Dynamic Natural Vision from Slow Brain Activity](https://arxiv.org/pdf/2405.03280) is under review. [Code](https://github.com/Mind-Animator/Mind-Animator)
+* 🚑 2024.06 [Animate Your Thoughts: Decoupled Reconstruction of Dynamic Natural Vision from Slow Brain Activity](https://arxiv.org/pdf/2405.03280) is under review. [[Code]](https://github.com/Mind-Animator/Mind-Animator)
 * 🎉 2023.07 [MindDiffuser: Controlled Image Reconstruction from Human Brain Activity with Semantic and Structural Diffusion](https://dl.acm.org/doi/10.1145/3581783.3613832) has been accepted by **ACM MM 2023**. [Code and Results](https://github.com/ReedOnePeck/MindDiffuser)
 
 
