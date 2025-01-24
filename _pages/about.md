@@ -15,9 +15,9 @@ I have been collaborating with [Dr. Changde Du](https://changdedu.github.io/) an
 
 🚀 News
 ======
-* 🚑 2024.06 [Animate Your Thoughts: Decoupled Reconstruction of Dynamic Natural Vision from Slow Brain Activity](https://arxiv.org/pdf/2405.03280) is under review. [[Code]](https://github.com/Mind-Animator/Mind-Animator)
+* 🚑 2024.06 [Animate Your Thoughts: Decoupled Reconstruction of Dynamic Natural Vision from Slow Brain Activity](https://arxiv.org/pdf/2405.03280) has been accepted by **ICLR 2025**.  
 * 🎉 2023.11 I secured the third prize in the presentation competition at the UCAS AI Forum's Student Sub-forum.
-* 🎉 2023.07 [MindDiffuser: Controlled Image Reconstruction from Human Brain Activity with Semantic and Structural Diffusion](https://dl.acm.org/doi/10.1145/3581783.3613832) has been accepted by **ACM MM 2023**. [[Code and Results]](https://github.com/ReedOnePeck/MindDiffuser)
+* 🎉 2023.07 [MindDiffuser: Controlled Image Reconstruction from Human Brain Activity with Semantic and Structural Diffusion](https://dl.acm.org/doi/10.1145/3581783.3613832) has been accepted by **ACM MM 2023**. 
 
 
 
@@ -25,7 +25,7 @@ I have been collaborating with [Dr. Changde Du](https://changdedu.github.io/) an
 ======
 * **Yizhuo Lu**, Changde Du<sup>*</sup>, Chong Wang, Xuanliu Zhu, Liuyun Jiang, Xujin Li, Huiguang He
 
-    [Animate Your Thoughts: Decoupled Reconstruction of Dynamic Natural Vision from Slow Brain Activity](https://arxiv.org/pdf/2405.03280) **Under Review**. [[Code]](https://github.com/Mind-Animator/Mind-Animator)
+    [Animate Your Thoughts: Decoupled Reconstruction of Dynamic Natural Vision from Slow Brain Activity](https://arxiv.org/pdf/2405.03280) **ICLR 2025**. [[Project Page]](https://mind-animator-design.github.io/), [[Data, Code and Checkpoints]](https://github.com/ReedOnePeck/Mind-Animator)
 
 * **Yizhuo Lu**, Changde Du<sup>*</sup>, Qiongyi zhou, Dianpeng Wang, Huiguang He
 
@@ -37,11 +37,11 @@ I have been collaborating with [Dr. Changde Du](https://changdedu.github.io/) an
 
     I was selected for the CASIA **Artificial Intelligence Elite Class** (20/2050) and interned in Professor Huiguang He's research group. My internship project won the **first prize** in the 2022-2023 Science and Innovation Program.
 
-* 🐳 **North Carolina State University**, 2022.01 - 2022.03, **Visiting student.**
+* 🐳 **North Carolina State University**, 2022.01 - 2022.03.
 
     As the project leader, I secured the **second place** in the final project presentation.[[PDF]](https://github.com/ReedOnePeck/Luyizhuo.github.io/blob/master/images/second-place.pdf)
 
-* 🐳 **Massachusetts Institute of Technology**, 2021.07 - 2021.09, **Visiting student.**
+* 🐳 **Massachusetts Institute of Technology**, 2021.07 - 2021.09.
 
 * 🐳 **Beijing Institute of Technology**, 2019.09 - 2023.06, **B.E. degree, Mathematics and Statistics.**
 
@@ -50,6 +50,7 @@ I have been collaborating with [Dr. Changde Du](https://changdedu.github.io/) an
 
 📸 Honors
 ======
+* 攀登二等奖学金 
 * 北京市优秀本科毕业生
 * 北京市优秀本科毕业论文
 * 费振勇奖学金（5/300）
