@@ -10,6 +10,7 @@ I am Yizhuo Lu(卢一卓), a second year Ph.D. student at Institute of Automatio
 
 My research interest lies in visual neural decoding technology, also known as mind-reading. Currently, I have developed controllable and interpretable algorithms for decoding [static images](https://dl.acm.org/doi/10.1145/3581783.3613832) and [dynamic videos](https://arxiv.org/abs/2405.03280) based on large pre-trained multimodal models, all of which are tailored to individual subjects. To broaden the application of this technology in natural settings, I will continue to explore its adaptability across subjects and datasets.
 
+I serve as a reviewer for international conferences and journals including IEEE Transactions on Medical Imaging (TMI), IEEE Transactions on Cognitive and Developmental Systems (TCDS), ICLR, ICCV, ACM MM.
 I have been collaborating with [Dr. Changde Du](https://changdedu.github.io/) and Dr. Liuyun Jiang on research projects. If you are interested in my research directions, please feel free to contact me via email to achieve meaningful outcomes together.
 
 
