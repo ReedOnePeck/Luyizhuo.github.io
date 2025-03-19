@@ -32,6 +32,7 @@ I have been collaborating with [Dr. Changde Du](https://changdedu.github.io/) an
     [Animate Your Thoughts: Decoupled Reconstruction of Dynamic Natural Vision from Slow Brain Activity](https://arxiv.org/pdf/2405.03280) **ICLR 2025**. [[Project Page]](https://mind-animator-design.github.io/), [[Data, Code and Checkpoints]](https://github.com/ReedOnePeck/Mind-Animator)
   
 * Xujin Li, Wei Wei, Kun Zhao, Jiayu Mao, **Yizhuo Lu**, Shuang Qiu, Huiguang He
+  
 [Exploring EEG and Eye Movement Fusion for Multi-Class Target RSVP-BCI](https://arxiv.org/pdf/2501.03596) **Information Fusion 2025** 
 
 * 🐳 **2023**
