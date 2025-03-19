@@ -16,8 +16,8 @@ I have been collaborating with [Dr. Changde Du](https://changdedu.github.io/) an
 
 🚀 News
 ======
-* 🎉 2025.05 One paper has been accepted by **Information Fusion**.
-* 🚑 2024.06 [Animate Your Thoughts: Decoupled Reconstruction of Dynamic Natural Vision from Slow Brain Activity](https://arxiv.org/pdf/2405.03280) has been accepted by **ICLR 2025**.  
+* 🎉 2025.03 One paper has been accepted by **Information Fusion**.
+* 🚑 2025.01 [Animate Your Thoughts: Decoupled Reconstruction of Dynamic Natural Vision from Slow Brain Activity](https://arxiv.org/pdf/2405.03280) has been accepted by **ICLR 2025**.  
 * 🎉 2023.11 I secured the third prize in the presentation competition at the UCAS AI Forum's Student Sub-forum.
 * 🎉 2023.07 [MindDiffuser: Controlled Image Reconstruction from Human Brain Activity with Semantic and Structural Diffusion](https://dl.acm.org/doi/10.1145/3581783.3613832) has been accepted by **ACM MM 2023**. 
 
@@ -33,7 +33,7 @@ I have been collaborating with [Dr. Changde Du](https://changdedu.github.io/) an
   
 * Xujin Li, Wei Wei, Kun Zhao, Jiayu Mao, **Yizhuo Lu**, Shuang Qiu, Huiguang He
   
-[Exploring EEG and Eye Movement Fusion for Multi-Class Target RSVP-BCI](https://arxiv.org/pdf/2501.03596) **Information Fusion 2025** 
+    [Exploring EEG and Eye Movement Fusion for Multi-Class Target RSVP-BCI](https://arxiv.org/pdf/2501.03596) **Information Fusion 2025** 
 
 * 🐳 **2023**
   
