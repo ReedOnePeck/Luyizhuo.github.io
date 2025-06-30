@@ -16,7 +16,7 @@ I have been collaborating with [Dr. Changde Du](https://changdedu.github.io/) an
 
 🚀 News
 ======
-* 🎉 I was selected for the "Elite Class of Direct PhD Candidates at the CASIA" (11 individuals were chosen this year).[[PDF]](https://github.com/ReedOnePeck/Luyizhuo.github.io/blob/master/images/Elite Class.pdf)
+* 🎉 I was selected for the "Elite Class of Direct PhD Candidates at the CASIA" (11 individuals were chosen this year).[[PDF]](https://github.com/ReedOnePeck/Luyizhuo.github.io/blob/master/images/Elite-Class.pdf)
 * 🎉 2025.03 One paper has been accepted by **Information Fusion**.
 * 🚑 2025.01 [Animate Your Thoughts: Decoupled Reconstruction of Dynamic Natural Vision from Slow Brain Activity](https://arxiv.org/pdf/2405.03280) has been accepted by **ICLR 2025**.  
 * 🎉 2023.11 I secured the third prize in the presentation competition at the UCAS AI Forum's Student Sub-forum.
