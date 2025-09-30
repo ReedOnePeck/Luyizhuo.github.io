@@ -32,12 +32,12 @@ I have been collaborating with [Dr. Changde Du](https://changdedu.github.io/) an
 ======
 🐳 **2025**
 
-* Changde Du<sup>*</sup>, **Yizhuo Lu**<sup>*</sup>, Zhongyu Huang<sup>*</sup>, Yi Sun, Zisen Zhou, Shaozheng Qin, Huiguang He
+* Changde Du, **Yizhuo Lu**, Zhongyu Huang, Yi Sun, Zisen Zhou, Shaozheng Qin, Huiguang He
 
     [Bridging the behavior-neural gap: A multimodal AI reveals the brain's geometry of emotion more accurately than human self-reports](https://www.researchsquare.com/article/rs-7545984/v1) **under review**. [[Project Page]](https://reedonepeck.github.io/ai-emotion.github.io/) **(Co-first author)**
 
 
-* Ning E<sup>*</sup>, **Yizhuo Lu**<sup>*</sup>, Changde Du<sup>*</sup>, Huiguang He
+* Ning E, **Yizhuo Lu**, Changde Du, Huiguang He
 
     Beyond Behavioral Alignment: Leveraging Core Cognitive Dimensions for Enhanced Human-like MLLMs.  **(Co-first author)**
 
