@@ -30,7 +30,7 @@ I have been collaborating with [Dr. Changde Du](https://changdedu.github.io/) an
 
 📝 Publications
 ======
-* 🐳 **2025**
+🐳 **2025**
 
 * Changde Du<sup>*</sup>, **Yizhuo Lu**<sup>*</sup>, Zhongyu Huang<sup>*</sup>, Yi Sun, Zisen Zhou, Shaozheng Qin, Huiguang He
 
@@ -50,7 +50,7 @@ I have been collaborating with [Dr. Changde Du](https://changdedu.github.io/) an
   
     [Exploring EEG and Eye Movement Fusion for Multi-Class Target RSVP-BCI](https://arxiv.org/pdf/2501.03596) **Information Fusion 2025** 
 
-* 🐳 **2023**
+🐳 **2023**
   
 * **Yizhuo Lu**, Changde Du<sup>*</sup>, Qiongyi zhou, Dianpeng Wang, Huiguang He
 
