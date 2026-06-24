@@ -18,18 +18,29 @@ I have been collaborating with [Dr. Changde Du](https://changdedu.github.io/) an
 
 🚀 News
 ======
+* 🎉 2026.05 One paper has been accepted by **ICML 2026 (Spotlight top 2.2%)**.
+* 🎉 2026.03 One paper has been accepted by **ICME 2026 (Oral)**.
+* 🎉 2026.01 One paper has been accepted by **ISBI 2026 (Oral)**.
+* 🎉 2026.01 One paper has been accepted by **Machine Intelligence Research 2026**.
 * 🎉 I will serve as a reviewer for **ICLR 2026**.
 * 🎉 I will serve as a PC member for **AAAI 2026**.
 * 🎉 I was selected for the "Elite Class of Direct PhD Candidates at the CASIA" (11 individuals were chosen this year).[[PDF]](https://github.com/ReedOnePeck/Luyizhuo.github.io/blob/master/images/Elite-Class.pdf)
 * 🎉 2025.03 One paper has been accepted by **Information Fusion**.
-* 🚑 2025.01 [Animate Your Thoughts: Decoupled Reconstruction of Dynamic Natural Vision from Slow Brain Activity](https://arxiv.org/pdf/2405.03280) has been accepted by **ICLR 2025**.  
+* 🚑 2025.01 One paper has been accepted by **ICLR 2025**.  
 * 🎉 2023.11 I secured the third prize in the presentation competition at the UCAS AI Forum's Student Sub-forum.
-* 🎉 2023.07 [MindDiffuser: Controlled Image Reconstruction from Human Brain Activity with Semantic and Structural Diffusion](https://dl.acm.org/doi/10.1145/3581783.3613832) has been accepted by **ACM MM 2023**. 
+* 🎉 2023.07 One paper has been accepted by **ACM MM 2023**. 
 
 
 
 📝 Publications
 ======
+🐳 **2026**
+* **Yizhuo Lu**, Changde Du<sup>*</sup>, Qingyu Shi, Hang Chen, Jie Peng, Liuyun Jiang, Shuangchen Zhao, Huiguang He
+
+    [Mind-Omni: A Unified Multi-Task Framework for Brain-Vision-Language Modeling via Discrete Diffusion](https://arxiv.org/pdf/2605.29591) **ICML 2026 (Spotlight top 2.2%)**. [[Data, Code and Checkpoints]](https://github.com/ReedOnePeck/Mind-Omni)
+
+  
+
 🐳 **2025**
 
 * Changde Du<sup>*</sup>, **Yizhuo Lu**<sup>*</sup>, Zhongyu Huang<sup>*</sup>, Yi Sun, Zisen Zhou, Shaozheng Qin, Huiguang He
