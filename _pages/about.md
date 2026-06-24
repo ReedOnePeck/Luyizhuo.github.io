@@ -39,7 +39,16 @@ I have been collaborating with [Dr. Changde Du](https://changdedu.github.io/) an
 
     [Mind-Omni: A Unified Multi-Task Framework for Brain-Vision-Language Modeling via Discrete Diffusion](https://arxiv.org/pdf/2605.29591) **ICML 2026 (Spotlight top 2.2%)**. [[Data, Code and Checkpoints]](https://github.com/ReedOnePeck/Mind-Omni)
 
-  
+* **Yizhuo Lu**, Changde Du<sup>*</sup>, Qiongyi Zhou, Liuyun Jiang, Huiguang He
+
+    [Versatile Framework with Semantic and Structural guidance for Image Reconstruction from Brain Activity](https://arxiv.org/html/2606.00121v1) **Machine Intelligence Research 2026 (JCR Q1, IF=10)**. 
+
+ * Hang Chen<sup>*</sup>, **Yizhuo Lu**<sup>*</sup>, Changde Du<sup>*</sup>, Huiguang He
+
+    UniMind: Disentangling Neural Representations for Unified Multi-Subject Video Decoding with Generalizable Adaptation.  **(Co-first author)**
+
+
+    
 
 🐳 **2025**
 
