@@ -8,9 +8,17 @@ redirect_from:
 ---
 I am Yizhuo Lu(卢一卓), a third year Ph.D. student at Institute of Automation, Chinese Academy of Sciences(中国科学院自动化研究所), supervised by [Prof. Huiguang He](https://people.ucas.ac.cn/~hehuiguang). 
 
+<!--
 My research interest lies in [NeuroAI](https://www.nature.com/articles/s42256-024-00826-6), a concept proposed by Turing Award laureates such as Bengio and Lecun in 2023. It refers to an interdisciplinary research field that integrates Neuroscience and Artificial Intelligence (AI) technologies. Its core objective is to improve AI systems by drawing on and simulating the structure and function of the human brain, while simultaneously leveraging AI tools to better understand and investigate neuroscientific issues.
 
 Specifically, my recent research unfolds along two dimensions: "AI for Brain" and "Brain for AI". On the one hand, I attempt to utilize AI tools to construct a "Image-Text-Brain" multimodal unified encoding-decoding foundation model, which is applied to conduct mind-reading research or explore the mechanisms of multimodal information processing in the human brain. On the other hand, I explore the similarities between AI models (especially MLLMs) and humans in terms of external behaviors and internal representations, and design alignment algorithms to enhance the models' human-like characteristics as well as their downstream task capabilities.
+-->
+
+My research focuses on AIGC, multimodal large language models (MLLMs), and unified multimodal foundation models. I am particularly interested in developing general-purpose models that can jointly understand, align, and generate information across heterogeneous modalities, including images, videos, text, and neural signals. My recent work explores unified generative architectures, such as diffusion-based and discrete generative models, for multimodal representation learning, cross-modal generation, and controllable content synthesis. I also investigate the behavioral and representational alignment between MLLMs and humans, with the goal of improving their human-like understanding, reasoning, and generalization capabilities.
+
+Beyond general multimodal intelligence, I am interested in applying these models to AI for Neuroscience. In particular, I develop vision-language-brain foundation models for neural decoding, visual reconstruction, and the analysis of multimodal information processing in the human brain. Through this line of research, I hope to advance unified models that not only support flexible perception and generation across conventional modalities, but can also connect artificial intelligence with human cognition and neural representations.
+
+
 
 I serve as a reviewer for international conferences and journals including IEEE Transactions on Medical Imaging (TMI), IEEE Transactions on Cognitive and Developmental Systems (TCDS), ICLR, ICCV, AAAI, ACM MM.
 I have been collaborating with [Dr. Changde Du](https://changdedu.github.io/) and Dr. Liuyun Jiang on research projects. If you are interested in my research directions, please feel free to contact me via email to achieve meaningful outcomes together.
