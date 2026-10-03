@@ -26,6 +26,7 @@ I have been collaborating with [Dr. Changde Du](https://changdedu.github.io/) an
 
 🚀 News
 ======
+* 🎉 2026.09 One paper has been accepted by **NeurIPS 2026**.
 * 🎉 2026.05 One paper has been accepted by **ICML 2026 (Spotlight top 2.2%)**.
 * 🎉 2026.03 One paper has been accepted by **ICME 2026 (Oral)**.
 * 🎉 2026.01 One paper has been accepted by **ISBI 2026 (Oral)**.
@@ -43,6 +44,10 @@ I have been collaborating with [Dr. Changde Du](https://changdedu.github.io/) an
 📝 Publications
 ======
 🐳 **2026**
+* Ning E<sup>*</sup>, Changde Du<sup>*</sup>, **Yizhuo Lu**<sup>*</sup>, Huiguang He
+
+    Beyond Behavioral Alignment: Leveraging Core Cognitive Dimensions for Enhanced Human-like MLLMs.  **NeurIPS 2026**, **(Co-first author)**
+  
 * **Yizhuo Lu**, Changde Du<sup>*</sup>, Qingyu Shi, Hang Chen, Jie Peng, Liuyun Jiang, Shuangchen Zhao, Huiguang He
 
     [Mind-Omni: A Unified Multi-Task Framework for Brain-Vision-Language Modeling via Discrete Diffusion](https://arxiv.org/pdf/2605.29591) **ICML 2026 (Spotlight top 2.2%)**. [[Data, Code and Checkpoints]](https://github.com/ReedOnePeck/Mind-Omni)
@@ -64,10 +69,6 @@ I have been collaborating with [Dr. Changde Du](https://changdedu.github.io/) an
 
     [Bridging the behavior-neural gap: A multimodal AI reveals the brain's geometry of emotion more accurately than human self-reports](https://www.researchsquare.com/article/rs-7545984/v1) **under review**. [[Project Page]](https://reedonepeck.github.io/ai-emotion.github.io/) **(Co-first author)**
 
-
-* Ning E<sup>*</sup>, Changde Du<sup>*</sup>, **Yizhuo Lu**<sup>*</sup>, Huiguang He
-
-    Beyond Behavioral Alignment: Leveraging Core Cognitive Dimensions for Enhanced Human-like MLLMs.  **(Co-first author)**
 
   
 * **Yizhuo Lu**, Changde Du<sup>*</sup>, Chong Wang, Xuanliu Zhu, Liuyun Jiang, Xujin Li, Huiguang He
