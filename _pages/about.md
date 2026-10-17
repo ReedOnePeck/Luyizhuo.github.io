@@ -26,14 +26,17 @@ I have been collaborating with [Dr. Changde Du](https://changdedu.github.io/) an
 
 🚀 News
 ======
+* 🎉 2026.10 获得**博士生国家奖学金**.
+* 🎉 2026.10 One paper has been accepted by **Nature Machine Intelligence**.
 * 🎉 2026.09 One paper has been accepted by **NeurIPS 2026**.
+* 🎉 2026.09 入选**2026年中国科协青年科技人才培育工程博士生专项计划**.
 * 🎉 2026.05 One paper has been accepted by **ICML 2026 (Spotlight top 2.2%)**.
 * 🎉 2026.03 One paper has been accepted by **ICME 2026 (Oral)**.
 * 🎉 2026.01 One paper has been accepted by **ISBI 2026 (Oral)**.
 * 🎉 2026.01 One paper has been accepted by **Machine Intelligence Research 2026**.
 * 🎉 I will serve as a reviewer for **ICLR 2026**.
 * 🎉 I will serve as a PC member for **AAAI 2026**.
-* 🎉 I was selected for the "Elite Class of Direct PhD Candidates at the CASIA" (11 individuals were chosen this year).[[PDF]](https://github.com/ReedOnePeck/Luyizhuo.github.io/blob/master/images/Elite-Class.pdf)
+* 🎉 入选自动化研究所**直博生实验班** (每年遴选10人).[[PDF]](https://github.com/ReedOnePeck/Luyizhuo.github.io/blob/master/images/Elite-Class.pdf)
 * 🎉 2025.03 One paper has been accepted by **Information Fusion**.
 * 🚑 2025.01 One paper has been accepted by **ICLR 2025**.  
 * 🎉 2023.11 I secured the third prize in the presentation competition at the UCAS AI Forum's Student Sub-forum.
@@ -44,6 +47,13 @@ I have been collaborating with [Dr. Changde Du](https://changdedu.github.io/) an
 📝 Publications
 ======
 🐳 **2026**
+
+* Changde Du<sup>*</sup>, **Yizhuo Lu**<sup>*</sup>, Zhongyu Huang<sup>*</sup>, Yi Sun, Zisen Zhou, Shaozheng Qin, Huiguang He
+
+    [Bridging the behavior-neural gap: A multimodal AI reveals the brain's geometry of emotion more accurately than human self-reports](https://www.researchsquare.com/article/rs-7545984/v1). [[Project Page]](https://reedonepeck.github.io/ai-emotion.github.io/)  **Nature Machine Intelligence**, **(Co-first author)**
+
+
+  
 * Ning E<sup>*</sup>, Changde Du<sup>*</sup>, **Yizhuo Lu**<sup>*</sup>, Huiguang He
 
     Beyond Behavioral Alignment: Leveraging Core Cognitive Dimensions for Enhanced Human-like MLLMs.  **NeurIPS 2026**, **(Co-first author)**
@@ -64,12 +74,6 @@ I have been collaborating with [Dr. Changde Du](https://changdedu.github.io/) an
     
 
 🐳 **2025**
-
-* Changde Du<sup>*</sup>, **Yizhuo Lu**<sup>*</sup>, Zhongyu Huang<sup>*</sup>, Yi Sun, Zisen Zhou, Shaozheng Qin, Huiguang He
-
-    [Bridging the behavior-neural gap: A multimodal AI reveals the brain's geometry of emotion more accurately than human self-reports](https://www.researchsquare.com/article/rs-7545984/v1) **under review**. [[Project Page]](https://reedonepeck.github.io/ai-emotion.github.io/) **(Co-first author)**
-
-
   
 * **Yizhuo Lu**, Changde Du<sup>*</sup>, Chong Wang, Xuanliu Zhu, Liuyun Jiang, Xujin Li, Huiguang He
 
@@ -104,6 +108,8 @@ I have been collaborating with [Dr. Changde Du](https://changdedu.github.io/) an
 
 📸 Honors
 ======
+* 博士生国家奖学金
+* 中国科协青年科技人才培育工程博士生专项计划
 * 中国科学院自动化研究所直博生实验班
 * 中国科学院人工智能菁英班奖学金（20/2050）
 * 中国科学院攀登二等奖学金 
